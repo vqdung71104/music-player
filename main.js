@@ -71,12 +71,6 @@ const lists = {
             singer: 'Modern Talking',
             path: 'https://audio.jukehost.co.uk/Ov9BVMZmWRW8Vs54pZZqf48baFBvhdmt',
             image: 'https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/c/a/b/5/cab58a4408a7c356d5db85b1fa31487f.jpg'
-        },
-        {
-            name: 'Chung ta cua tuong lai',
-            singer: 'Son Tung MTP',
-            path: 'C:\Users\Admin\Downloads\son-tung-m-tp-chung-ta-cua-tuong-lai-official-music-video-(mp3convert.org).mp3',
-            image: 'https://2sao.vietnamnetjsc.vn/images/2024/03/08/08/39/son-tung-8.jpg',
         }
     ],
     setconfigs: function(key, value) {
